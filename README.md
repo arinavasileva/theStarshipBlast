@@ -22,25 +22,23 @@ Technical Form: 2D graphics with a space-themed visual style, inspired by the cl
 View: Top-down view, offering a perspective of outer space battles. 
  
 Platforms: 
-- iOS; 
-- Android; 
 - Mac; 
-- PC. 
+- PC;
+- Linux;
+Targeted Plateform - Mac OS.
  
 Language: C# developed in Unity 
  
 Devices: 
-- Mobile; 
 - PC; 
-- Web. 
+ 
  
 GAME PLAY 
  
 The Starship Blast is an exciting space shooter game that draws inspiration from the classic Arkanoid, with a twist. Players pilot a starship equipped with a powerful energy cannon, tasked with defending the galaxy from alien blocks and obstacles. The objective is to blast through waves of alien blocks, complete challenging missions, and achieve high scores. 
 Players navigate their starship through various space environments, facing relentless waves of alien blocks and formidable obstacles. They must skillfully maneuver their starship to shoot down the blocks while avoiding enemy fire and navigating treacherous space terrain. The game introduces a variety of power-ups that enhance the starship's abilities, such as rapid fire, shield, and laser weaponry. 
  
-Missions are a significant part of The Starship Blast, with players required to complete various objectives, from clearing waves of alien blocks to protecting space stations. Each mission offers unique challenges and opportunities to earn points and rewards. 
-The game is won by completing missions and achieving high scores, while players can lose if their starship sustains too much damage. The excitement in The Starship Blast comes from the fast-paced action, strategic power-up usage, and the pursuit of top scores in the leaderboards. 
+The game is won by destroying targets and achieving high scores, while players can lose if their starship sustains too much damage. The excitement in The Starship Blast comes from the fast-paced action, strategic power-up usage, and the pursuit of top scores in the leaderboards. 
  
 Key Features: 
 - Space battles with alien blocks and obstacles; 
@@ -59,13 +57,10 @@ Game Design Definitions:
 - Transition Between Missions: Progression from one mission to the next with increasing difficulty. 
  
 Game Flowchart: 
-1. Menu 
-2. Level Selection 
-3. Starship Preparation/Game Play 
-4. Space Battles 
-5. Level Completion 
-6. Game Over 
-7. High Scores 
+1.Score
+2.Lives
+3.Target
+4.Game Over
  
 Player Definition: The player is a skilled starship pilot. 
  
@@ -73,13 +68,12 @@ Player Properties:
 - Starship Health: Reflects the condition of the starship's hull. 
 - Score: Accumulated points from destroying alien blocks. 
 - Weapons and Power-Ups: Varieties of weapons and their respective power-up levels. 
-- Shields: Protective barriers that can absorb damage. 
+
  
-Player Rewards: Completion of levels and achieving high scores, offering in-game currency for upgrades and enhancements. 
+Player Rewards: Completion of levels and achieving high scores
  
 User Interface (UI): 
-The game's UI is designed to be intuitive and responsive. For mobile devices, touch controls allow players to steer the starship and fire weapons. On PC, keyboard and mouse controls can be used for precise piloting and shooting. The UI displays vital information such as mission objectives, starship health, and score. Additionally, it allows players to track their power-up effects and progression within the game. The UI is intended to provide a dynamic and engaging experience that immerses players in the action-packed world of The Starship Blast, with a nod to the classic Arkanoid.
-
+The game's UI is designed to be intuitive and responsive. On PC, keyboard and mouse controls can be used for precise piloting and shooting. The UI displays vital information such as target, starship health, and score. 
 
 
 **********************************
