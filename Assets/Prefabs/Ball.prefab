@@ -84,7 +84,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e25c7288977c7ea43bf67933ab124775, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isLightningBall: 0
   lightningBallEffect: {fileID: 1806377271253708365}
+  lightningBallDuration: 10
 --- !u!1 &7974114312050484719
 GameObject:
   m_ObjectHideFlags: 0
