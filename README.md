@@ -25,7 +25,7 @@ Platforms:
 - Mac; 
 - PC;
 - Linux;
-Targeted Plateform - Mac OS.
+Targeted Platform - Mac OS.
  
 Language: C# developed in Unity 
  
