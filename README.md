@@ -23,7 +23,7 @@ View: Top-down view, offering a perspective of outer space battles.
  
 Platforms: 
 - Mac; 
-- PC;
+- Windows;
 - Linux;
 Targeted Platform - Mac OS.
  
